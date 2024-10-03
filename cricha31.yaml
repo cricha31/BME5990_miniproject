@@ -1,6 +1,6 @@
 module: SequenceModule
 model:
-  model_name: CNNalaJores21
+  model_name: CNNcricha31
   arch_name: CNN
   arch:
     input_len: 170
