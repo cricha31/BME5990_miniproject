@@ -1,7 +1,7 @@
 module: SequenceModule
 model:
-  model_name: CNNalaJores21
-  arch_name: CNN
+  model_name: cricha31
+  arch_name: cricha31
   arch:
     input_len: 170
     output_dim: 1
